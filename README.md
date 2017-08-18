@@ -1,5 +1,5 @@
 # Adminer - Database management in a single PHP file
-[![Build Status](https://travis-ci.org/cul/lito-adminer.svg?branch=master)](https://travis-ci.org/cul/lito-adminer)
+[![Build Status](https://travis-ci.org/cul/lito-adminer.svg?branch=master)](https://travis-ci.org/cul/lito-adminer)<br>
 https://www.adminer.org/<br>
 https://github.com/vrana/adminer<br>
 
