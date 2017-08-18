@@ -1,9 +1,9 @@
 # Adminer - Database management in a single PHP file
-https://www.adminer.org/
-https://github.com/vrana/adminer
+https://www.adminer.org/<br>
+https://github.com/vrana/adminer<br>
 
-Supports: MySQL, PostgreSQL, SQLite, MS SQL, Oracle, SimpleDB, Elasticsearch, MongoDB, Firebird
-Requirements: PHP 5+
-License: Apache License 2.0
-
+Supports: MySQL, PostgreSQL, SQLite, MS SQL, Oracle, SimpleDB, Elasticsearch, MongoDB, Firebird<br>
+Requirements: PHP 5+<br>
+License: Apache License 2.0<br>
+<br>
 Additional plugins should be placed in /plugins
